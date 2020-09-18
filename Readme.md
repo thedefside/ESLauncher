@@ -1,0 +1,1 @@
+This is an executable file used to launch EmulationStation in protable mode. You can use this instead of the launch_portable.bat. This way, you can add launch EmaulationStation in portatble mode from Steam.
